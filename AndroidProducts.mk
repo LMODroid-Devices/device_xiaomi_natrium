@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_natrium.mk
+    $(LOCAL_DIR)/lmodroid_natrium.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_natrium-user \
-    lineage_natrium-userdebug \
-    lineage_natrium-eng
+    lmodroid_natrium-user \
+    lmodroid_natrium-userdebug \
+    lmodroid_natrium-eng
