@@ -23,7 +23,7 @@ $(call inherit-product, vendor/xiaomi/natrium/natrium-vendor.mk)
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-lmodroid
 
 # Permissions
 PRODUCT_COPY_FILES += \
