@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_natrium.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_natrium-user \
-    lmodroid_natrium-userdebug \
-    lmodroid_natrium-eng
